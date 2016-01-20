@@ -23,7 +23,6 @@
     <li>La recherche de réponses adaptées à des problèmes liés à la fourniture des services informatiques.</li>
     <li>L’accompagnement et l’assistance des utilisateurs.</li>
     <li>Le maintien de la qualité des services informatique.</li>
-    w
 </div>
 
 <?php include('bottom.php'); ?>
